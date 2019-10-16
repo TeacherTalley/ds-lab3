@@ -7,6 +7,7 @@
 
 int main()
 {
+	// Create the binary search tree object
 	BSTstd* t1 = new BSTstd();
 	t1->insert(5);
 	t1->insert(8);
