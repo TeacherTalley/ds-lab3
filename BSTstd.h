@@ -1,6 +1,5 @@
 
 /*-- BSTstd.h ---------------------------------------------------------------
-
   This header file defines the  class for a Binary Search Tree using nodes 
   and pointers
   Basic operations are:

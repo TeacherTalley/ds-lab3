@@ -33,6 +33,7 @@ int main()
 	t1->traversal();
 	t1->remove(5);
 	t1->traversal();
+	// Delete the binary search tree
 	delete t1;
 	return 0;
 }
