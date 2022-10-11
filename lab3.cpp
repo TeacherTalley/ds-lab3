@@ -20,9 +20,9 @@ int main()
 	t1->insert(19);
 	t1->insert(2);
 	t1->traversal();
-	//t1->search(3);
-	//t1->search(18);
-	//t1->search(19);
+	// if (t1->search(3)) std::cout << "3 was found!" << std::endl;	
+	// if (t1->search(18)) std::cout << "18 was found!" << std::endl;	
+	// if (t1->search(19) std::cout << "19 was found!" << std::endl;	
 	t1->remove(9);
 	t1->traversal();
 	t1->remove(2);
